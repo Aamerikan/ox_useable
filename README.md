@@ -11,3 +11,6 @@ I am using OX_inventory and QBX Core, although mostly written for QBCORE i just 
 Dependencies:
 ox_lib
 ox_inventory
+
+Preview:
+https://streamable.com/6lvrko
